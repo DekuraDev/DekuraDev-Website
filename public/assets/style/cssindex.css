@@ -55,7 +55,7 @@ body {
 
 .all {
     width: 900px;
-    height: 1500px;
+    height: 1900px;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
@@ -135,7 +135,7 @@ body {
     margin-left: 75px;
     display: inline-block;
     height: 20px;
-    border-radius: 10%;
+    border-radius: 10px;
 
 }
 
